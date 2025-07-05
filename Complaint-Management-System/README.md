@@ -72,5 +72,4 @@ Warden dashboard:
 # Hosted Link
 http://172.16.15.7/dbms19/
 
-# GitHub Link:
-https://github.com/Rishika-Rajput2003/Complaint-Management-System
+
